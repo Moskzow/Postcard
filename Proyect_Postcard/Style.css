@@ -1,0 +1,29 @@
+body {background-image: url(https://www.spain.info/export/sites/segtur/.content/imagenes/cabeceras-grandes/andalucia/playa-bolonia-tarifa_s540759601.jpg);
+	width: 100%;
+	height: auto;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: #000000;
+	font-family: 'Handlee', cursive;
+	font-size: 18px;
+	}
+input {font-size: 18px; font-family: 'Handlee', cursive;}
+textarea {font-size: 16px; font-family: 'Handlee', cursive;}
+.postcard h1{margin: 0; font-size: 35px}
+.postcard {background: white; opacity: 0.85; width: 600px; height: 350px; margin: auto; position: absolute; top: 50%;
+	 left: 50%; transform: translate(-50%, -50%); border: 2px gray; 
+	padding: 15px; border: 1px solid darkgray; border-collapse: collapse;}
+.postcard-header {overflow: hidden;}
+.postcard-header img{max-width: 85px;}
+.header-title {float: left; width: 50%}
+.header-image {float: right; width: 50% position: right;}
+.postcard-body {overflow: hidden;}
+.left-part {float: left; width: 50%;}
+.postcard-body input[type=text] {border: none; border-bottom: 1px solid gray;  width: 280px; margin-bottom: 4px; padding: 4px;}
+.right-part {float: right; width: 50%;}
+.right-part input {display: block;}
+.right-part textarea {display: block;}
+.postcard-footer {padding: 10px; text-align: center;}
+.postcard-footer input[type=submit] {border: none; border-bottom: 1px solid gray}

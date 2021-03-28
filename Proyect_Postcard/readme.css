@@ -1,0 +1,14 @@
+body {background-image: url(https://www.spain.info/export/sites/segtur/.content/imagenes/cabeceras-grandes/andalucia/playa-bolonia-tarifa_s540759601.jpg);
+	width: 100%;
+	height: auto;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: #000000;
+	}
+.references {background: #959595; width: 800px; height: 600px; margin: auto; position: absolute; top: 50%;
+	 left: 50%; transform: translate(-50%, -50%); opacity: 0.8; font-size: 15px; border: 1px solid black; border-collapse: collapse;}
+.header {font-size: 25px; text-align: center;}
+.links {text-align: left; overflow: auto; height: 400px;}
+.contact {margin-left: 65px;}
